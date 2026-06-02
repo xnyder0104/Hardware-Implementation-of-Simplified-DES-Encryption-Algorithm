@@ -1,9 +1,8 @@
-
 # Hardware Implementation of Simplified DES Encryption Algorithm
 
 ## Project Overview
 
-This project was developed for the UDYAM'24 DIGISIM PS-1 competition by Team Kaizer. The objective was to design and simulate a digital logic circuit capable of encrypting (and decrypting) an 8-bit digital message using a customized, simplified version of the Data Encryption Standard (DES) algorithm.
+This project was developed for the UDYAM'24 DIGISIM PS-1 competition. The objective was to design and simulate a digital logic circuit capable of encrypting (and decrypting) an 8-bit digital message using a customized, simplified version of the Data Encryption Standard (DES) algorithm.
 
 To demonstrate hardware design versatility and trade-offs, the project features two distinct architectural implementations in Proteus: a **Combinational Circuit** approach optimized for minimal cost and latency, and a **Sequential Circuit** approach that reuses hardware components across multiple clock cycles to complete the encryption rounds.
 
